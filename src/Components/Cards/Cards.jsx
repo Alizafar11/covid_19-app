@@ -10,7 +10,7 @@ const Cards = ({ data: { confirmed, recovered, deaths, lastUpdate } }) => {
     if (!confirmed) {
         return 'Loading...';
     }
-
+//JBKJABDJKB\JKSC K
 
     return (
         <div className={styles.container}>
